@@ -23,7 +23,7 @@ export default function RuleUpdateBanner() {
     >
       <p style={{ fontSize: 13, color: COLORS.amberTextDark, margin: 0 }}>
         <span style={{ fontWeight: 500 }}>2026 update · </span>
-        All trails require a ¥4,000 fee and advance registration.{' '}
+        All trails now charge a ¥4,000 entry fee. Advance booking is optional but recommended.{' '}
         <Link
           href="/rules"
           style={{
