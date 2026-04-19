@@ -41,12 +41,12 @@ const RULES = [
 ];
 
 const CHECKLIST = [
-  'Register online at the official portal (or book a tour that includes registration)',
-  'Pay the ¥4,000 fee online',
-  'Save your QR code to your phone (offline-accessible)',
-  'Arrive at 5th station before 2 PM (or have a hut reservation)',
-  'Collect your wristband at the 5th station check-in',
-  'Keep the wristband visible throughout your climb',
+'Decide your trail and climbing dates',
+  'Optional: book in advance via the official Fujisan Climb portal to guarantee entry on busy days',
+  'Bring ¥4,000 cash per climber (or pay online if booked in advance)',
+  'Arrive at 5th station before 2 PM (or have a hut reservation for later entry)',
+  'Pay the entry fee at the gate and proceed',
+  'Check the weather one final time before starting the climb',
 ];
 
 const FAQS = [
