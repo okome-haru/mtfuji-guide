@@ -85,7 +85,7 @@ export default function RulesPage() {
           2026 Mt Fuji rules — what you must know
         </h1>
         <p style={{ fontSize: 16, color: COLORS.slateMuted, margin: 0, maxWidth: 640, lineHeight: 1.6 }}>
-          Since 2025, climbing Mt Fuji requires advance registration and a ¥4,000 fee. These aren\'t optional — gates are closed to non-registered climbers. Here\'s the full breakdown.
+          Since 2025, climbing Mt Fuji requires a ¥4,000 entry fee on all trails. Advance booking is optional but strongly recommended on busy days. Here\'t optional — gates are closed to non-registered climbers. Here\'s the full breakdown.
         </p>
       </section>
 
