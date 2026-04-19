@@ -56,7 +56,7 @@ const FAQS = [
   },
   {
     q: 'Can I pay the fee in cash at the gate?',
-    a: 'No. Payment is online only, before you arrive. This is a 2025+ change. Gate staff do not handle payments.',
+    a: 'Yes. The ¥4,000 entry fee can be paid in cash at the 5th station gate on the day of your climb. Online pre-payment is also available through the official Fujisan Climb portal, which is recommended on busy days to guarantee entry.',
   },
   {
     q: 'What if the weather turns bad after I\'ve paid?',
