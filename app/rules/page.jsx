@@ -52,7 +52,7 @@ const CHECKLIST = [
 const FAQS = [
   {
     q: 'What if the daily cap is reached before I arrive?',
-    a: 'You won\'t be allowed through the gate. Yoshida Trail hits its 4,000-climber cap on busy weekends — the system stops accepting new entries once reached. Plan weekday climbs or register well in advance.',
+    a: 'You won\'t be allowed through the gate. Yoshida Trail hits its 4,000-climber cap on busy weekends — the system stops accepting new entries once reached. The easiest way to guarantee entry is to book in advance through the official Fujisan Climb portal, or stay at a mountain hut (hut guests can pass through even after 2 PM).',
   },
   {
     q: 'Can I pay the fee in cash at the gate?',
