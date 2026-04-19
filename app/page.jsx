@@ -36,7 +36,7 @@ const STATS = [
 const FAQS = [
   {
     q: 'Do I need a permit or reservation?',
-    a: 'Yes. As of 2025, all four trails require advance online registration and a ¥4,000 entry fee. You cannot show up and climb on the spot.',
+    a: 'No permit or advance reservation is required. A ¥4,000 entry fee applies on all four trails, but you can pay on the day at the 5th station. Advance booking through the official Fujisan Climb portal is optional — it guarantees entry on busy days (especially weekends and Obon week) when the Yoshida Trail daily cap of 4,000 climbers may be reached.',
   },
   {
     q: 'Can I climb in one day without sleeping?',
