@@ -22,8 +22,8 @@ const RULES = [
   },
   {
     icon: UserCheck,
-    title: 'Advance online registration',
-    body: 'Register through the official Fujisan Climb portal (or via Klook/Viator if you book a tour). You\'ll receive a QR code and a wristband at the 5th station. No registration = no entry.',
+    title: 'Advance booking (optional)',
+     body: 'You can book through the official Fujisan Climb portal before your climb, or pay at the 5th station on the day. Pre-booking is recommended on weekends and Obon week when the Yoshida Trail may hit its daily cap. Booked climbers also receive a commemorative wooden token.',
     tint: 'blue',
   },
   {
