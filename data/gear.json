@@ -1,0 +1,79 @@
+{
+  "essential": [
+    {
+      "name": "Hiking boots",
+      "why": "Volcanic gravel is merciless on regular sneakers. Ankle support prevents injuries on the descent.",
+      "rentOrBuy": "Rent",
+      "estimatedCost": "¥3,000 (rental) or ¥15,000+ (buy)",
+      "rentalUrl": "https://www.klook.com/",
+      "buyUrl": "https://www.amazon.co.jp/"
+    },
+    {
+      "name": "Headlamp",
+      "why": "Sunrise climbs start in pitch dark around 2 AM. Phone flashlights drain batteries and leave your hands full.",
+      "rentOrBuy": "Buy",
+      "estimatedCost": "¥2,500–5,000",
+      "buyUrl": "https://www.amazon.co.jp/"
+    },
+    {
+      "name": "Warm layers (down + fleece)",
+      "why": "Summit temperature is near freezing even in August. Wind chill makes it feel colder.",
+      "rentOrBuy": "Rent",
+      "estimatedCost": "¥2,000 (rental)",
+      "rentalUrl": "https://www.klook.com/"
+    },
+    {
+      "name": "Rain jacket + pants",
+      "why": "Weather changes rapidly above 3,000m. Getting wet in cold wind is genuinely dangerous.",
+      "rentOrBuy": "Rent",
+      "estimatedCost": "¥1,500 (rental)",
+      "rentalUrl": "https://www.klook.com/"
+    },
+    {
+      "name": "Backpack (30L)",
+      "why": "Needs to fit water, food, layers, and rain gear. Hut requires you to carry your own stuff.",
+      "rentOrBuy": "Bring or rent",
+      "estimatedCost": "¥1,500 (rental)",
+      "rentalUrl": "https://www.klook.com/"
+    },
+    {
+      "name": "Water (2L minimum)",
+      "why": "Altitude dehydrates you fast. Huts sell water at 3–5× Tokyo prices.",
+      "rentOrBuy": "Buy en route",
+      "estimatedCost": "¥500 at base, ¥500–800/bottle on mountain"
+    },
+    {
+      "name": "Cash (¥15,000)",
+      "why": "Huts and toilets only accept cash. No ATMs above the 5th station.",
+      "rentOrBuy": "Bring",
+      "estimatedCost": "¥15,000 recommended"
+    },
+    {
+      "name": "Gloves",
+      "why": "You'll grip cold ropes and metal chains at rocky sections.",
+      "rentOrBuy": "Buy",
+      "estimatedCost": "¥500–2,000",
+      "buyUrl": "https://www.amazon.co.jp/"
+    }
+  ],
+  "optional": [
+    {
+      "name": "Trekking poles",
+      "why": "Saves knees on the descent. Not essential for fit climbers.",
+      "rentOrBuy": "Rent or buy",
+      "estimatedCost": "¥1,000 (rental)"
+    },
+    {
+      "name": "Portable oxygen can",
+      "why": "Helpful if you're prone to altitude sickness. Not a substitute for proper acclimatization.",
+      "rentOrBuy": "Buy in Japan",
+      "estimatedCost": "¥1,000/can"
+    },
+    {
+      "name": "Snacks & energy bars",
+      "why": "Huts serve basic meals but trail snacks keep you going.",
+      "rentOrBuy": "Bring from Tokyo",
+      "estimatedCost": "¥1,000–2,000"
+    }
+  ]
+}
