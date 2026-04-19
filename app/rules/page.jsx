@@ -8,22 +8,22 @@ import FAQAccordion from '@/components/FAQAccordion';
 import { COLORS } from '@/lib/tokens';
 
 export const metadata = {
-  title: '2026 Mt Fuji rules & permits — what you must know',
+  title: '2026 Mt Fuji rules & fees — what you must know',
   description:
-    'The complete guide to the 2026 Mt Fuji climbing rules: ¥4,000 fee, advance online registration, time restrictions, and daily caps.',
+    'The complete guide to the 2026 Mt Fuji climbing rules: ¥4,000 entry fee, optional advance booking, time restrictions, and daily caps.',
 };
 
 const RULES = [
   {
     icon: CreditCard,
     title: '¥4,000 mandatory entry fee',
-    body: 'All four trails now require a ¥4,000 payment before entering. Payable online during registration. Non-refundable once paid. Applies to every climber regardless of age, residency, or membership.',
+    body: 'All four trails now charge a ¥4,000 entry fee per climber. Payable in cash at the 5th station gate, or online in advance via the Fujisan Climb portal. Applies to every climber regardless of age, residency, or membership.',
     tint: 'amber',
   },
   {
     icon: UserCheck,
     title: 'Advance booking (optional)',
-     body: 'You can book through the official Fujisan Climb portal before your climb, or pay at the 5th station on the day. Pre-booking is recommended on weekends and Obon week when the Yoshida Trail may hit its daily cap. Booked climbers also receive a commemorative wooden token.',
+    body: 'You can book through the official Fujisan Climb portal before your climb, or pay at the 5th station on the day. Pre-booking is recommended on weekends and Obon week when the Yoshida Trail may hit its daily cap. Booked climbers also receive a commemorative wooden token.',
     tint: 'blue',
   },
   {
@@ -35,13 +35,13 @@ const RULES = [
   {
     icon: AlertCircle,
     title: 'Daily cap of 4,000 (Yoshida)',
-    body: 'Yoshida Trail caps at 4,000 climbers per day. Once reached, gates close even before 2 PM. Weekend slots fill fast — register at least a few weeks in advance.',
+    body: 'Yoshida Trail caps at 4,000 climbers per day. Once reached, gates close even before 2 PM. Weekend slots fill fast — book through the official portal in advance if you must climb on a weekend or during Obon.',
     tint: 'purple',
   },
 ];
 
 const CHECKLIST = [
-'Decide your trail and climbing dates',
+  'Decide your trail and climbing dates',
   'Optional: book in advance via the official Fujisan Climb portal to guarantee entry on busy days',
   'Bring ¥4,000 cash per climber (or pay online if booked in advance)',
   'Arrive at 5th station before 2 PM (or have a hut reservation for later entry)',
@@ -63,8 +63,8 @@ const FAQS = [
     a: 'The ¥4,000 fee is non-refundable once paid. Some tour operators offer weather-based rescheduling, so booking through a tour can be insurance against bad weather.',
   },
   {
-    q: 'Do tour bookings handle registration automatically?',
-    a: 'Yes — most guided tours (Klook, Viator, GetYourGuide) handle the online registration and fee on your behalf. Confirm this is explicitly stated on the booking page.',
+    q: 'Do tour bookings handle the booking and fee automatically?',
+    a: 'Yes — most guided tours (Klook, Viator, GetYourGuide) include the entry fee and optional advance booking on your behalf. Confirm this is explicitly stated on the booking page before you pay.',
   },
 ];
 
@@ -85,7 +85,7 @@ export default function RulesPage() {
           2026 Mt Fuji rules — what you must know
         </h1>
         <p style={{ fontSize: 16, color: COLORS.slateMuted, margin: 0, maxWidth: 640, lineHeight: 1.6 }}>
-          Since 2025, climbing Mt Fuji requires a ¥4,000 entry fee on all trails. Advance booking is optional but strongly recommended on busy days. Here\'t optional — gates are closed to non-registered climbers. Here\'s the full breakdown.
+          Since 2025, climbing Mt Fuji requires a ¥4,000 entry fee on all trails. Advance booking is optional but strongly recommended on busy days. Here\'s the full breakdown.
         </p>
       </section>
 
@@ -137,7 +137,7 @@ export default function RulesPage() {
             Skip the paperwork — book a guided tour
           </h3>
           <p style={{ fontSize: 14, color: COLORS.blueText, margin: '0 0 16px', lineHeight: 1.6 }}>
-            If registration, fee payment, and hut booking sound like too much, most guided tours bundle everything into one booking. You arrive, climb, and leave.
+            If trail selection, fee payment, and hut booking sound like too much, most guided tours bundle everything into one booking. You arrive, climb, and leave.
           </p>
           <Link href="/tours" style={{ display: 'inline-flex', alignItems: 'center', gap: 6, background: COLORS.amber, color: COLORS.amberText, padding: '10px 18px', borderRadius: 8, fontSize: 13, fontWeight: 500, textDecoration: 'none' }}>
             See all-inclusive tours →

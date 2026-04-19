@@ -18,7 +18,7 @@ export const metadata = {
 
 const SELF_GUIDED = [
   { text: 'Cheapest (~¥15,000 total)', icon: 'check', tone: 'good' },
-  { text: 'Book registration, bus, hut separately', icon: 'x', tone: 'bad' },
+  { text: 'Book entry fee, bus, and hut separately', icon: 'x', tone: 'bad' },
   { text: 'Japanese-only at many touchpoints', icon: 'x', tone: 'bad' },
   { text: 'No backup if weather turns', icon: 'x', tone: 'bad' },
 ];
@@ -82,7 +82,7 @@ export default function ToursPage() {
           Guided Mt Fuji tours, ranked for clarity.
         </h1>
         <p style={{ fontSize: 16, color: COLORS.slateMuted, margin: 0, maxWidth: 640, lineHeight: 1.6 }}>
-          Every tour listed here includes an English-speaking guide and handles the 2026 registration and fee. We&apos;ve grouped them so you can match your budget, fitness, and timeline in under a minute.
+          Every tour listed here includes an English-speaking guide and handles the ¥4,000 entry fee for you. We&apos;ve grouped them so you can match your budget, fitness, and timeline in under a minute.
         </p>
       </section>
 
@@ -232,7 +232,7 @@ export default function ToursPage() {
         <div style={{ background: COLORS.mist, borderRadius: 12, padding: '22px 26px' }}>
           <h2 style={{ fontSize: 16, fontWeight: 500, color: COLORS.indigo, margin: '0 0 10px' }}>How we rank tours</h2>
           <p style={{ fontSize: 14, color: COLORS.slateMuted, margin: '0 0 14px', lineHeight: 1.6 }}>
-            Not by commission rate. We check English guide quality, safety certifications, altitude-sickness protocols, and recent traveler reviews (2024–2026). Tours that include the mandatory ¥4,000 fee and advance registration score higher.
+            Not by commission rate. We check English guide quality, safety certifications, altitude-sickness protocols, and recent traveler reviews (2024–2026). Tours that include the ¥4,000 entry fee and handle optional advance booking for you score higher.
           </p>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(140px, 1fr))', gap: 10 }}>
             {RANKING_CRITERIA.map((c, i) => (

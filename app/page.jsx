@@ -28,7 +28,7 @@ const STEPS = [
 
 const STATS = [
   { n: '204,000+', l: 'Climbers per season' },
-  { n: '¥4,000', l: 'New entry fee (2025+)' },
+  { n: '¥4,000', l: 'Entry fee per climber' },
   { n: '3,776m', l: 'Summit altitude' },
   { n: '4 trails', l: 'From easy to expert' },
 ];
